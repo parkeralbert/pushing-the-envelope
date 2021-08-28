@@ -155,7 +155,116 @@ export const MOCK_LISTS: ReadonlyArray<List> = [
         content: `<b>Best album to remind me of the chaotic and sudden end to my college experience</b>
         <p>I see red every time I play this record. It released the same week covid first wreaked havoc in the U.S., and its furiously fast pace kept stride with the speed of the suddenly changing world. Listening to songs like &ldquo;Bueno&rdquo; break down and then build back up with walls of pure angst was so cathartic that I can&rsquo;t listen to the album now without returning to my cooped up apartment full of people preparing to flee the virus.</p>`,
       },
-      
+      {
+        id: 'duval-timothy-help',
+        title: 'Help',
+        artist: 'Duval Timothy',
+        content: `<b>Best album to play while taking a morning bike ride through London after a hard rain</b>
+        <p><em>Help </em>skirts the peripheries of jazz and electronica while Timothy stays focused on shaping simple yet evocative piano motifs. Simultaneously exploratory and inward-looking, by the end of the album it feels as though you&rsquo;ve seen all angles of a beautiful sculpture.</p>`,
+      },
+      {
+        id: 'waxahatchee-saint-cloud',
+        title: 'Saint Cloud',
+        artist: 'Waxahatchee',
+        content: `<b>Best album to play while you’re coming home after a long time away</b>
+        <p>My last all-nighter at UCLA was spent skating around campus with a sense of finality about my college experience. As the sun came up I played Waxahatchee&rsquo;s latest singles (&ldquo;Fire&rdquo; and &ldquo;Lilacs&rdquo;), and felt strangely at peace despite the incoming pandemic. <em>Saint Cloud</em> released the night before the 16 hour drive from Colorado back to Nashville; I waited to listen until the sunrise, just as we were about to make it home. It fit perfectly. <em>Saint Cloud </em>is the rainbow after her previous, gloomier album <em>Out in the Storm</em>, filtering Katie&rsquo;s trials through accessible Americana and relatable phrases that let her insightful songwriting shine. The record isn&rsquo;t happy-go-lucky or overly optimistic; it&rsquo;s just a friend who understands.</p>`,
+      },
+      {
+        id: 'waxahatchee-saint-cloud',
+        title: 'Saint Cloud',
+        artist: 'Waxahatchee',
+        content: `<b>Best album to play while you’re coming home after a long time away</b>
+        <p>My last all-nighter at UCLA was spent skating around campus with a sense of finality about my college experience. As the sun came up I played Waxahatchee&rsquo;s latest singles (&ldquo;Fire&rdquo; and &ldquo;Lilacs&rdquo;), and felt strangely at peace despite the incoming pandemic. <em>Saint Cloud</em> released the night before the 16 hour drive from Colorado back to Nashville; I waited to listen until the sunrise, just as we were about to make it home. It fit perfectly. <em>Saint Cloud </em>is the rainbow after her previous, gloomier album <em>Out in the Storm</em>, filtering Katie&rsquo;s trials through accessible Americana and relatable phrases that let her insightful songwriting shine. The record isn&rsquo;t happy-go-lucky or overly optimistic; it&rsquo;s just a friend who understands.</p>`,
+      },
+      {
+        id: 'blake-mills-mutable-set',
+        title: 'Mutable Set',
+        artist: 'Blake Mills',
+        content: `<b>Best album for Talk Talk fans</b>
+        <p><em>Mutable Set </em>features my favorite opener of 2020. An acoustic guitar strums amidst murmuring synths, hesitantly at first, then picking up steam as Blake Mills&rsquo; comfortingly quiet voice enters. The song manages to mix colors of ambient, jazz, and pastoral folk to paint a picture of a town coming to life under the sun&rsquo;s soft guidance. The rest of the record mimics the muted approach of &ldquo;Never Forever," exploring the possibilities allowed by building a song in a quiet way, splashing inquisitive chords around simple musical phrases throughout. The minimally undulating piano of &ldquo;Summer All Over'' are reminiscent of Mills&rsquo; work with Perfume Genius, and the patchwork melody handled by guitar, piano, and bass on &ldquo;My Dear One&rdquo; makes the Talk Talk influence clear. Like Mark Hollis, Blake Mills understands that the absence of a sound can be intriguing as the presence of one.&nbsp;</p>`,
+      },
+      {
+        id: 'duma-duma',
+        title: 'Duma',
+        artist: 'Duma',
+        content: `<b>Most inventively scathing album</b>
+        <p>On their punishing debut, Duma crafts a hellish soundscape of deadly synths and relentlessly looping drum machines that morph into something otherworldly. Inhuman shrieks and guttural moans are mixed below the sonic surface, as if they&rsquo;ve already passed the point of no return.</p>`,
+      },
+      {
+        id: 'adrienne-lenker-songs',
+        title: 'songs',
+        artist: 'Adrienne Lenker',
+        content: `<b>Best album to witness a campfire roar to life before falling back to glowing embers that settle into ash</b>
+        <p>Inspired by the ashes of her relationship with Indigo Sparke, another artist who shares her affinity for open-hearted acoustic folk, <em>songs </em>is Adrianne at her best, a flex of sharp-eyed songwriting set to a menacingly minimal backdrop. Creeping vines of Adrienne&rsquo;s cyclical fingerpicks wind around insights of life swept from small but nonetheless impactful moments that shape her spirit. A dead horse found as a child is the subject of &ldquo;ingydar,&rdquo; spinning into a tale detailing the beauty and horror of mortality: &ldquo;Everything eats and is eaten/ Time is fed.&rdquo; The gorgeously lovesick &ldquo;anything&rdquo; cuts through the humid air of a pedal steel, resting in the open bed of a pickup truck rolling through billowing blades of grass. A prism shaped from shards of memories offers a peek into Adrianne&rsquo;s time with Indigo: a sliced fist from a dog bite, a campfire amongst the pines, and the cradle found in a partner&rsquo;s lap. Adrianne&rsquo;s vulnerable croon devastates and rejuvenates in the same breath, a reminder of the threads that entangle us all together.</p>`,
+      },
+      {
+        id: 'adrienne-lenker-instrumentals',
+        title: 'insrumentals',
+        artist: 'Adrienne Lenker',
+        content: `<b>Best album to mold with the serene sound of nature until the two become indistinguishable</b>
+        <p>A darkened grey was spreading over Tennessee skies as I rushed up the carpeted steps of my family&rsquo;s home, aching to play Adrienne&rsquo;s freshly released <em>instrumentals </em>before dinnertime. The album opens at the creak of a well-worn wooden porch, bending under the dual weight of Adrienne and her guitar. As strums trickled from her fingers like the melt of Spring, and windchimes huddled together in a reverberating embrace, I heard the sky respond with pitter patters of raindrops on my rooftop. I opened my windows to let these two forces of nature meet. In due time melody burst forth from &ldquo;music for indigo&rdquo;,blooming into the flush of watercolored flowers on the album&rsquo;s cover. <em>instrumentals </em>is a wellspring, an invitation to dip into the source of Adrienne&rsquo;s tranquil kinship with Mother Earth, offering a state of pure peace she so effortlessly conjures.</p>`,
+      },
+      {
+        id: 'special-interest-the-passion-of',
+        title: 'The Passion Of',
+        artist: 'Special Interest',
+        content: `<b>Best album to play while hosting an apocalyptic dance party under an erupting volcano</b>
+        <p>For someone who serves as the prophet of destruction on her band&rsquo;s latest album <em>The Passion Of</em>, Alli Logout is kind and candid. She walks me through her teenage years spent with best friends booking punk shows in an abandoned schoolhouse; unfortunately, outside of her small hometown she was met with an oversaturation of white men in punk who looked down upon her tightly-knit community. Special Interest&rsquo;s second record rings of Alli&rsquo;s upbringing: on it she comes to terms with the dismal state of the world while pulling those close to her even closer, asking them to stand side by side. We talked at a time when Trump&rsquo;s secret forces were snatching people off the streets of Portland, which imbued Alli&rsquo;s work with a saliency that was not lost on her. Lines like &ldquo;But would you bat an eye/Waiting for war machines to pass you by&rdquo; on &ldquo;All Tomorrow&rsquo;s Carry&rdquo; turned into a call to action, a desperate plea to fight the fires of injustice.&nbsp;</p>
+        <p><br/>Even as its lyrics caustically castigate the willfully ignorant, the brutally sparse beats on <em>The Passion Of </em>form forceful techno, daring you to dance amongst shrieks of hopelessly distorted guitar and wails of menacing ambience. This tension between joy and despair threatens to consume until Alli finds a way forward on the final song &ldquo;With Love.&rdquo; The track takes one more sweeping glance at America&rsquo;s disturbing reality of oppression, and then delivers a decree of promised retribution based upon love and unity. Special Interest isn&rsquo;t afraid to face oncoming darkness, but that doesn&rsquo;t stop them from dancing.</p>`,
+      },
+      {
+        id: 'king-britt-back2black/tooshay',
+        title: 'Back2Black/TooShay',
+        artist: 'King Britt',
+        content: `<b>Best tracks to induce a spacefaring trance</b>
+        <p>As an artist enamoured by the ideals of Afrofuturism, King Britt has always carried cosmic ambitions. In the thirty-plus years since his first gig, he&rsquo;s DJ&rsquo;d for Digable Planets, produced his own music under many monikers (including run-ins with De La Soul and Madlib), and served as a professor at UCSD&mdash;he currently teaches Blacktronica, a class about artists of color who helped pioneer electronic music. He&rsquo;s been to the stars, but for his latest two singles he brings it back down to Earth, digging up the roots of techno. &ldquo;Back2Black&rdquo; ripples with a minimal melody that periodically plunges into the depths of aquamarine textures. &ldquo;TooShay&rdquo; sends a plethora of polyrhythms on parallel paths that insistently stay their course for the large part of the song&rsquo;s 15 minute duration. As the track reaches a climax they collide in a prismatic fashion and scatter like sun rays at a day&rsquo;s end, emitting one last burst of radiance before fading away.</p>`,
+      },
+      {
+        id: 'fake-phone-number-battle-royale-on-paper',
+        title: 'Battle Royale on Paper',
+        artist: 'Fake Phone Number',
+        content: `<b>Best album to play at 3 am when you took too many edibles in downtown and you missed the last bus and you can’t tell if that guy across the street is frowning at you or if it’s just the way his face always looks</b>
+        <p>Considering the haunted atmosphere of <em>Battle Royale on Paper</em>, perhaps it&rsquo;s appropriate that I had to re-do my interview with Ari Finkel due to technical difficulties. With a name inspired by scam calls, Finkel&rsquo;s project Fake Phone Number explores an uncanny valley populated by creeping samples climbing darkly textured mountains of techno. Skits aren&rsquo;t relegated to the peripheries, they&rsquo;re incorporated into the tracks, building an interaction that isn&rsquo;t present on most plunder-prone releases. There are moments of morbidity, such as on &ldquo;Stiffs,&rdquo; when, seconds after a sample snatched from the 1987 film <em>Angel Heart </em>describes stiffs going by in a hearse, an unsettling sample sings &ldquo;Homicide, Homicide, Homicide,&rdquo; fading in and out to mimic the doppler effect of a car passing by.&nbsp;</p>
+<p>Even the moments of humor are overshadowed by a sense of dread. &ldquo;Nightshade Pt. 1&rdquo; begins innocently enough, sampling a scene from <em>That 70&rsquo;s Show </em>parodying an anti-drug PSA: &ldquo;I have something that&rsquo;s even keener than soda pop. It&rsquo;s called marijuana,&rdquo; spouts a top-hatted man, beckoning a fresh-faced boy to join him. But as the bit takes a dark turn&mdash;&ldquo;All it takes is one puff to make you hopelessly addicted&rdquo;&mdash;a chilling synth slips through the cracks and makes the canned laughs sound frighteningly maniacal.&nbsp;</p>
+<p><br /><em>Battle Royale on Paper </em>was inspired by a night Finkel took too many tabs of acid, spiraling him into a terrifying trip that stretched towards infinity. An attempt to calm himself through ambient and jazz tracks just ramped up his anxiety, and he only pulled himself out of it after watching music videos of the menacing but amusing post-punk group The Birthday Party, who in his own words resembled &ldquo;vampires in cowboy outfits.&rdquo; His experience transforming fear into laughter colors the record, and explains why the aptly titled &ldquo;Halloween All Year&rdquo; concludes the album with a clear-eyed groove.</p>`,
+      },
+      {
+        id: 'mourning-a-blkstar',
+        title: 'The Cycle',
+        artist: 'Mourning [A] Blkstar',
+        content: `<b>Best use of gospel as a powerful force of change</b>
+        <p>When I interviewed two of the vocalists for Mourning [A] Blkstar (James Longs and LaToya Kent) along with the writer/producer RA Washington, they huddled around their camera like a family, speaking of <em>The Cycle </em>as if it was their baby. MAB&rsquo;s inseparable nature has been an integral element to their creative process since the beginning&mdash;RA started the group after writing songs he wanted someone else to sing&mdash;but on their fourth album they take that mindset to the next level. The entirety of <em>The Cycle </em>was recorded live, with no overdubs and surprisingly few takes. Its sonics are a synthesis of diverse contributions from MAB&rsquo;s eight members: soulful vocals form flesh over skeletal samples, while drums clothe and bursts of horns adorn. Its lyrics speak of love in the midst of struggle, a fitting topic for a band so committed to togetherness.</p>`,
+      },
+      {
+        id: 'nnamdi-brat',
+        title: 'BRAT',
+        artist: 'NNAMD&Iuml',
+        content: `<b>Best album that will bring hip-hop and math-rock fans together</b>
+        <p>Nnamd&iuml; Ogbonnaya writes all the lyrics, produces all of the tracks, and plays almost all of the instruments on his fourth album, although you wouldn&rsquo;t guess it by the way he carries himself. Disposed to a casual, humble air, at one point during the interview he shrugs and says, &ldquo;I&rsquo;m not that good at drums.&rdquo; None of this timidness can be found on the twelve tracks of <em>BRAT</em>, however. NNAMD&Iuml; is too busy switching styles ranging from hip-hop to math-rock, while simultaneously mixing humor with somberness. On &ldquo;Gimmie Gimmie,&rdquo; he unloads his greedy urges over a gleeful beat, complimented by a music video featuring NNAMD&Iuml; stealing a kid&rsquo;s ice cream cone. &ldquo;Everyone I Loved&rdquo; reckons with strained relationships and the fear of drifting away as NNAMD&Iuml; actively disproves his assertion that he&rsquo;s bad at drums.</p>
+        <p><br />After the release of <em>BRAT</em>, it only took three months for another album to emerge. Inspired by looney toons, <em>KRAZY KARL </em>is a whirlwind of rhythmic experimentation and untethered melodies that was whipped up in a week&rsquo;s time. If that wasn&rsquo;t enough, NNAMD&Iuml; also drums in the post/math-rock group Monobody, who just released a new single last month. Needless to say you&rsquo;d be lucky to be a NNAMD&Iuml; fan, because there&rsquo;s clearly much more to come.</p>`, 
+      },
+      {
+        id: 'ono-red-summer',
+        title: 'Red Summer',
+        artist: 'ONO',
+        content: `<b>Best music that isn't actually music</b>
+        <p>When I started the Zoom for ONO&rsquo;s interview, I was greeted by their vocalist travis, who was sporting a grizzled grey beard and a wide smile. A wig most closely resembling a jellyfish was wrapped in lights and perched atop his head, while dozens of bedazzled crosses covered the wall behind him, many featuring miniature figurines of a crucified Jesus. I recognized the wig from a fiery performance ONO gave in Chicago, in which travis changes from a raincoat with a frightening hood to an outfit resembling a hazmat suit to an apron-like dress where the wig made its appearance. To my slight disappointment, travis removed it as we prepared to begin the interview.&nbsp;</p>
+        <p>Once travis was joined by his band members Michael P ONO and Jordan Reyes, I asked my first question. What followed was an earnest discussion where I was merely an observer, an attendant of a lecture from a circle of academics and philosophers. I learned about the group&rsquo;s view of capitalism&rsquo;s effect on racial injustice, travis&rsquo; eventful life accented by time spent with the U.S. Navy and his education at Northwestern (from which he graduated with a 4.0 GPA), and the aim of ONO&rsquo;s art to serve as educational activism. <em>Red Summer </em>indeed opens a tome of dark history. travis&rsquo; spoken word vocals reference the Tuskegee incident, The Haitian Revolution, and of course the Red Summer of 1919, weaving together a disturbing web of inequity. The accompanying music is&mdash;according to ONO&rsquo;s mission statement&mdash;not music but rather &ldquo;Experimental, Noise, and Industrial Poetry ... Exploring Gospel's Darkest Conflicts, Tragedies and Premises.&rdquo; More than 40 years after their formation, they&rsquo;re still exploring, and I doubt they&rsquo;ll stop anytime soon.</p>`,
+      },
+      {
+        id: 'asuquomo-diobu',
+        title: 'Diobu',
+        artist: 'Asuquomo',
+        content: `<b>Best album to listen to when you’re homesick</b>
+        <p>Named after the neighborhood in Nigeria where he was born and raised, <em>DIOBU </em>was released by Morris Ogbowu from his residence in Ottawa, Canada. While the EP was partially funded by the Ontario Arts Council and the City of Ottawa, it can largely be read as a homesick letter to his country of origin. This cultural dichotomy permeates <em>DIOBU</em>: &ldquo;YAHWEH&rdquo; features an Afrobeat groove coexisting with Ogbowu&rsquo;s determined flow, and &ldquo;FEEL AT HOME&rdquo; navigates his discovery of a sense of belonging while the beat wears the western hip-hop influence on its sleeve. As he happily dives into the record&rsquo;s intentions and inspirations, it&rsquo;s clear that the work of Asuquomo is meant to not only provide Ogbowu with a sense of peace but to make the listeners feel at home, wherever they may be.</p>`,
+      },
+      {
+        id: 'michael-olatuja-lagos-pepper-soup',
+        title: 'Lagos Pepper Soup',
+        artist: 'Michael Olatuja',
+        content: `<b>Best album to listen to while you're pretending to be a world class chef</b>
+        <p>Named after the neighborhood in Nigeria where he was born and raised, <em>DIOBU </em>was released by Morris Ogbowu from his residence in Ottawa, Canada. While the EP was partially funded by the Ontario Arts Council and the City of Ottawa, it can largely be read as a homesick letter to his country of origin. This cultural dichotomy permeates <em>DIOBU</em>: &ldquo;YAHWEH&rdquo; features an Afrobeat groove coexisting with Ogbowu&rsquo;s determined flow, and &ldquo;FEEL AT HOME&rdquo; navigates his discovery of a sense of belonging while the beat wears the western hip-hop influence on its sleeve. As he happily dives into the record&rsquo;s intentions and inspirations, it&rsquo;s clear that the work of Asuquomo is meant to not only provide Ogbowu with a sense of peace but to make the listeners feel at home, wherever they may be.</p>`,
+      },
     ],
     createdAt: 1624082838,
   },
